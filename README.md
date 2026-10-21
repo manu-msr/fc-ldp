@@ -73,6 +73,11 @@
 			Recursión
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1rOKq4-qHsYBnMT83GMHwNimbw8mwoW1B/view?usp=drive_link" target="_blank">
+			Máquinas abstractas
+		</a>
+	</li>
 </ol>
 
 
