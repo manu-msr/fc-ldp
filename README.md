@@ -83,6 +83,16 @@
 			Continuaciones
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1pfy_vSqQQiVB7a5xkZN2yqWW39cb_vJT/view?usp=drive_link" target="_blank">
+			Programas secuenciales
+		</a>
+	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1jGPkk5b9lIbWy1B1VtrnC7iY2HkTvN_I/view?usp=drive_link" target="_blank">
+			Estructuras de control
+		</a>
+	</li>
 </ol>
 
 
