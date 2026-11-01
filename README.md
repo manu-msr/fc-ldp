@@ -104,6 +104,11 @@
 			MiniLisp
 		</a>
 	</li>
+	<li>
+		<a href="https://github.com/manu-msr/tinyc" target="_blank">
+			TinyC
+		</a>
+	</li>
 </ul>
 
 ## Referencias de consulta
