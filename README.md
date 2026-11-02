@@ -2,6 +2,8 @@
 
 ## Notas de clase
 
+<img src="imagenes/lambda.png" align="right" width="30%">
+
 <ol>
 	<li>
 		<a href="https://drive.google.com/file/d/1HQ5sQ2yNUDY3F_6AeV0hKFxl0yWyNoUH/view?usp=drive_link" target="_blank">
