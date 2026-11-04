@@ -95,6 +95,16 @@
 			Estructuras de control
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1rXa3E5q3tNOe9pSIGl_Z1XB_pPIlsuXw/view?usp=drive_link" target="_blank">
+			Variables vs. referencias
+		</a>
+	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1-jFin8JsNqMPPPToPhPvUAwHiJwFoHQ0/view?usp=drive_link" target="_blank">
+			Técnicas de paso de parámetros
+		</a>
+	</li>
 </ol>
 
 
