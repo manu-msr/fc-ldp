@@ -105,6 +105,11 @@
 			Técnicas de paso de parámetros
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1Gs8Q1H9ijtDoVpXNvX1EtmvbKJfhu2fG/view?usp=drive_link" target="_blank">
+			Definición de sistema de tipos
+		</a>
+	</li>
 </ol>
 
 
