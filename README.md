@@ -1,8 +1,12 @@
 # Lenguajes de Programación
 
-## Notas de clase
-
 <img src="imagenes/lambda.png" align="right" width="30%">
+
+La teoría de lenguajes de programación es un área de las ciencias de la computación dedicada al estudio de los fundamentos matemáticos y computacionales que permiten definir, interpretar y razonar sobre los lenguajes de programación. A través de conceptos como la sintaxis, la semántica y los sistemas de tipos, estudia cómo se representa el significado de los programas, cómo se evalúan sus expresiones y qué propiedades pueden establecerse sobre su comportamiento. Estos fundamentos permiten comprender los principios que sustentan el diseño y la implementación de los lenguajes de programación.
+
+Este curso ofrece una introducción a los fundamentos teóricos y prácticos de los lenguajes de programación, abordando conceptos como el cálculo lambda, los modelos de evaluación, los ambientes, la memoria, el estado y los sistemas de tipos. A lo largo del semestre, las personas estudiantes explorarán cómo se representa y ejecuta un programa mediante modelos formales y máquinas abstractas, complementando su estudio con implementaciones en Haskell. El enfoque busca fortalecer el razonamiento formal y la comprensión de los mecanismos que sustentan la ejecución de los programas, proporcionando herramientas conceptuales para el análisis y diseño de lenguajes de programación.
+
+## Notas de clase
 
 <ol>
 	<li>
