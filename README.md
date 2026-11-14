@@ -110,6 +110,11 @@
 			Definición de sistema de tipos
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1tyN8yzEfNvF6t2huTzsJBg4zOKBaJMEq/view?usp=drive_link" target="_blank">
+			Verificación de tipos
+		</a>
+	</li>
 </ol>
 
 
