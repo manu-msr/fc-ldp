@@ -119,6 +119,11 @@ Este curso ofrece una introducción a los fundamentos teóricos y prácticos de 
 			Verificación de tipos
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/14OtHC0m40M3F_4ll8bbXUQ25aqJkSSBK/view?usp=drive_link" target="_blank">
+			Polimorfismo paramétrico
+		</a>
+	</li>
 </ol>
 
 
