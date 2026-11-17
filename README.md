@@ -124,6 +124,11 @@ Este curso ofrece una introducción a los fundamentos teóricos y prácticos de 
 			Polimorfismo paramétrico
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/129cVzpxHlQEdW3CNINmua1surt9LEpH4/view?usp=drive_link" target="_blank">
+			Inferencia de tipos
+		</a>
+	</li>
 </ol>
 
 
