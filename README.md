@@ -129,6 +129,11 @@ Este curso ofrece una introducción a los fundamentos teóricos y prácticos de 
 			Inferencia de tipos
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1mNEIdFO2u3KsBt44yZNGJsYZhpoOnF5G/view?usp=drive_link" target="_blank">
+			Seguridad = preservación + progreso
+		</a>
+	</li>
 </ol>
 
 
