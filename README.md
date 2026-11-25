@@ -134,6 +134,11 @@ Este curso ofrece una introducción a los fundamentos teóricos y prácticos de 
 			Seguridad = preservación + progreso
 		</a>
 	</li>
+	<li>
+		<a href="https://drive.google.com/file/d/1QAKmniCYujceHvh0IGUCFOzepN17F55Q/view?usp=drive_link" target="_blank">
+			Objetos, Java Peso Pluma y genéricos
+		</a>
+	</li>
 </ol>
 
 
